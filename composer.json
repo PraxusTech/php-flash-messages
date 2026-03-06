@@ -14,7 +14,7 @@
       "email": "brunaclegomes10@gmail.com"
     }
   ],
-  "license": ["Apache", "MIT"],
+  "license": ["Apache-2.0", "MIT"],
   "require": {
     "php": ">=5.4.0"
   },
