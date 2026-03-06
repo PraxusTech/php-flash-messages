@@ -1,0 +1,25 @@
+{
+  "name": "praxustech/php-flash-messages",
+  "description": "A modern take on PHP session-based flash messages",
+  "keywords": ["flash", "messages", "session", "bootstrap"],
+  "authors": [
+    {
+      "name": "Joao Pedro Matias",
+      "email": "joaopedrord2001@gmail.com"
+    },
+    {
+      "name": "Bruna Gomes",
+      "email": "brunaclegomes10@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "PraxusTech\\FlashMessages\\": "src/"
+    }
+  }
+}
